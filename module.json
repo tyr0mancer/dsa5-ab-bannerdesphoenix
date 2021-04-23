@@ -1,7 +1,7 @@
 {
   "name": "dsa5-ab-bannerdesphoenix",
   "title": "DSA5 Abenteuer - Im Banner des Phoenix",
-  "description": "Ein Abenteuer",
+  "description": "Ein Abenteuer Modul für Foundry VTT",
   "author": "tyr0mancer",
   "version": "0.2",
   "minimumCoreVersion": "0.7.0",
