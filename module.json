@@ -1,0 +1,59 @@
+{
+  "name": "dsa5-ab-bannerdesphoenix",
+  "title": "DSA5 Abenteuer - Im Banner des Phoenix",
+  "description": "Ein Abenteuer",
+  "author": "tyr0mancer",
+  "version": "0.2",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9",
+  "packs": [
+    {
+      "label": "Im Banner des Phoenix - Spoiler",
+      "name": "actors-meisterfiguren",
+      "entity": "Actor",
+      "path": "packs/actors-meisterfiguren.db",
+      "module": "dsa5-ab-bannerdesphoenix"
+    },
+    {
+      "label": "Im Banner des Phoenix  - Spoiler",
+      "name": "items-gm",
+      "entity": "Item",
+      "path": "packs/items-gm.db",
+      "module": "dsa5-ab-bannerdesphoenix"
+    },
+    {
+      "label": "Im Banner des Phoenix",
+      "name": "items",
+      "entity": "Item",
+      "path": "packs/items.db",
+      "module": "dsa5-ab-bannerdesphoenix"
+    },
+    {
+      "label": "Im Banner des Phoenix - Spoiler",
+      "name": "journal",
+      "entity": "JournalEntry",
+      "path": "packs/journal.db",
+      "module": "dsa5-ab-bannerdesphoenix"
+    },
+    {
+      "label": "Im Banner des Phoenix - TOTM",
+      "name": "scenes-totm",
+      "entity": "Scene",
+      "path": "packs/scenes-totm.db",
+      "module": "dsa5-ab-bannerdesphoenix"
+    },
+    {
+      "label": "Im Banner des Phoenix - Battlemaps",
+      "name": "scenes-bm",
+      "entity": "Scene",
+      "path": "packs/scenes-bm.db",
+      "module": "dsa5-ab-bannerdesphoenixf"
+    }
+  ],
+  "url": "https://github.com/tyr0mancer/dsa5-ab-bannerdesphoenix",
+  "manifest": "https://raw.githubusercontent.com/tyr0mancer/dsa5-ab-bannerdesphoenix/master/module.json",
+  "download": "https://github.com/tyr0mancer/dsa5-ab-bannerdesphoenix/archive/refs/tags/0.2.zip",
+  "bugs": "https://github.com/tyr0mancer/dsa5-traveller/issues",
+  "allowBugReporter": true
+}
+
