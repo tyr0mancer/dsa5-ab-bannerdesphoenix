@@ -1,7 +1,7 @@
 {
   "name": "dsa5-ab-bannerdesphoenix",
   "title": "DSA5 Abenteuer - Im Banner des Phoenix",
-  "description": "Ein Abenteuer Modul für Foundry VTT",
+  "description": "Ein DSA5 Abenteuer Modul für Foundry VTT",
   "author": "tyr0mancer",
   "version": "0.2",
   "minimumCoreVersion": "0.7.0",
@@ -12,13 +12,6 @@
       "name": "actors-meisterfiguren",
       "entity": "Actor",
       "path": "packs/actors-meisterfiguren.db",
-      "module": "dsa5-ab-bannerdesphoenix"
-    },
-    {
-      "label": "Im Banner des Phoenix  - Spoiler",
-      "name": "items-gm",
-      "entity": "Item",
-      "path": "packs/items-gm.db",
       "module": "dsa5-ab-bannerdesphoenix"
     },
     {
@@ -47,7 +40,7 @@
       "name": "scenes-bm",
       "entity": "Scene",
       "path": "packs/scenes-bm.db",
-      "module": "dsa5-ab-bannerdesphoenixf"
+      "module": "dsa5-ab-bannerdesphoenix"
     }
   ],
   "url": "https://github.com/tyr0mancer/dsa5-ab-bannerdesphoenix",
