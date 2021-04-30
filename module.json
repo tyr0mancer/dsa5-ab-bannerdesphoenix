@@ -3,7 +3,7 @@
   "title": "DSA5 Abenteuer - Im Banner des Phoenix",
   "description": "Ein DSA5 Abenteuer Modul für Foundry VTT",
   "author": "tyr0mancer",
-  "version": "0.2",
+  "version": "0.3.0",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9",
   "packs": [
@@ -45,7 +45,7 @@
   ],
   "url": "https://github.com/tyr0mancer/dsa5-ab-bannerdesphoenix",
   "manifest": "https://raw.githubusercontent.com/tyr0mancer/dsa5-ab-bannerdesphoenix/master/module.json",
-  "download": "https://github.com/tyr0mancer/dsa5-ab-bannerdesphoenix/archive/refs/tags/0.2.zip",
+  "download": "https://github.com/tyr0mancer/dsa5-ab-bannerdesphoenix/archive/refs/tags/0.3.0.zip",
   "bugs": "https://github.com/tyr0mancer/dsa5-traveller/issues",
   "allowBugReporter": true
 }
