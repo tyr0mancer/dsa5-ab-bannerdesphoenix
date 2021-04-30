@@ -8,14 +8,14 @@
   "compatibleCoreVersion": "0.7.9",
   "packs": [
     {
-      "label": "Im Banner des Phoenix - Spoiler",
+      "label": "Im Banner des Phoenix - Meisterfiguren",
       "name": "actors-meisterfiguren",
       "entity": "Actor",
       "path": "packs/actors-meisterfiguren.db",
       "module": "dsa5-ab-bannerdesphoenix"
     },
     {
-      "label": "Im Banner des Phoenix",
+      "label": "Im Banner des Phoenix - Items",
       "name": "items",
       "entity": "Item",
       "path": "packs/items.db",
